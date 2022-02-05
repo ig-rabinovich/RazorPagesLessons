@@ -37,7 +37,7 @@ namespace RazorPagesLessons.Services
                 },
                 new Employee()
                 {
-                    Id=0, Name="Stan", Email="stan@example.com", Department=Dept.Payroll
+                    Id=5, Name="Stan", Email="stan@example.com", Department=Dept.Payroll
                 },
             };
         }
